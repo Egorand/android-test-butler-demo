@@ -1,6 +1,8 @@
 # android-test-butler-demo
 
-TODO
+Sample application that uses [Test Butler](https://github.com/linkedin/test-butler) to test correctness of 
+alternative layout resources (Landscape vs Portrait), and checks that Activity state is saved and restored correctly.
+Check ["Your Espresso, Sir!", or Stepping Up Your UI Tests With Test Butler](http://blog.egorand.me).
 
 License
 -------

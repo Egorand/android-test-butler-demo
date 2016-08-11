@@ -2,7 +2,8 @@
 
 Sample application that uses [Test Butler](https://github.com/linkedin/test-butler) to test correctness of 
 alternative layout resources (Landscape vs Portrait), and checks that Activity state is saved and restored correctly.
-Check ["Your Espresso, Sir!", or Stepping Up Your UI Tests With Test Butler](http://blog.egorand.me).
+Check ["Your Espresso, Sir!", or Stepping Up Your UI Tests With Test Butler]
+(http://blog.egorand.me/your-espresso-sir-or-stepping-up-your-ui-tests-with-test-butler/).
 
 License
 -------

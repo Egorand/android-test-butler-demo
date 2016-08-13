@@ -13,6 +13,7 @@ android:
     - sys-img-x86_64-android-24
   licenses:
     - 'android-sdk-license-.+'
+    - 'android-sdk-preview-license-d099d938'
 
 # Emulator Management: Create, Start and Wait
 before_script:

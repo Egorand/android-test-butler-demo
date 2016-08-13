@@ -1,4 +1,5 @@
 # android-test-butler-demo
+[![Build Status](https://travis-ci.org/Egorand/android-test-butler-demo.svg?branch=master)](https://travis-ci.org/Egorand/android-test-butler-demo)
 
 Sample application that uses [Test Butler](https://github.com/linkedin/test-butler) to test correctness of 
 alternative layout resources (Landscape vs Portrait), and checks that Activity state is saved and restored correctly.
